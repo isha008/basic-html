@@ -1,0 +1,14 @@
+.demotable{
+        border: 1px solid black;
+    
+}
+thead{
+    background-color: black;
+    color:white;
+}
+#userlogin{
+    background-color: rgb(188, 246, 226);
+}
+#info{
+    color:brown;
+}
